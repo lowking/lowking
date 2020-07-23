@@ -24,11 +24,11 @@ HTML         6 mins          ░░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//lowking/lowking/issues/1) in [lowking/lowking](https://github.com//lowking/lowking)
-2. ❗️ Opened issue [#1](https://github.com//lowking/lowking/issues/1) in [lowking/lowking](https://github.com//lowking/lowking)
-3. ❗️ Opened issue [#626](https://github.com//PPHubApp/PPHub-Feedback/issues/626) in [PPHubApp/PPHub-Feedback](https://github.com//PPHubApp/PPHub-Feedback)
-4. 🗣 Commented on [#736](https://github.com//agalwood/Motrix/issues/736) in [agalwood/Motrix](https://github.com//agalwood/Motrix)
-5. ❗️ Opened issue [#736](https://github.com//agalwood/Motrix/issues/736) in [agalwood/Motrix](https://github.com//agalwood/Motrix)
+1. ❗️ Opened issue [#4](https://github.com//jamesgeorge007/github-activity-readme/issues/4) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. ❗️ Closed issue [#1](https://github.com//lowking/lowking/issues/1) in [lowking/lowking](https://github.com//lowking/lowking)
+3. ❗️ Opened issue [#1](https://github.com//lowking/lowking/issues/1) in [lowking/lowking](https://github.com//lowking/lowking)
+4. ❗️ Opened issue [#626](https://github.com//PPHubApp/PPHub-Feedback/issues/626) in [PPHubApp/PPHub-Feedback](https://github.com//PPHubApp/PPHub-Feedback)
+5. 🗣 Commented on [#736](https://github.com//agalwood/Motrix/issues/736) in [agalwood/Motrix](https://github.com//agalwood/Motrix)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
