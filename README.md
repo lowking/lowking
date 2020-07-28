@@ -28,7 +28,7 @@ Markdown     27 mins         ░░░░░░░░░░░░░░░░░
 2. ❗️ Opened issue [#4](https://github.com//jamesgeorge007/github-activity-readme/issues/4) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 3. ❗️ Closed issue [#1](https://github.com//lowking/lowking/issues/1) in [lowking/lowking](https://github.com//lowking/lowking)
 4. ❗️ Opened issue [#1](https://github.com//lowking/lowking/issues/1) in [lowking/lowking](https://github.com//lowking/lowking)
-5. ❗️ Opened issue [#626](https://github.com//PPHubApp/PPHub-Feedback/issues/626) in [PPHubApp/PPHub-Feedback](https://github.com//PPHubApp/PPHub-Feedback)
+5. undefined
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
