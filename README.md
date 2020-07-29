@@ -24,11 +24,5 @@ Markdown     27 mins         ░░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com//jamesgeorge007/github-activity-readme/issues/4) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#4](https://github.com//jamesgeorge007/github-activity-readme/issues/4) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. ❗️ Closed issue [#1](https://github.com//lowking/lowking/issues/1) in [lowking/lowking](https://github.com//lowking/lowking)
-4. ❗️ Opened issue [#1](https://github.com//lowking/lowking/issues/1) in [lowking/lowking](https://github.com//lowking/lowking)
-5. undefined
-<!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
