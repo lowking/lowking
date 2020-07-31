@@ -1,4 +1,4 @@
-name: Update_readme
+name: Activity Readme
 
 on:
   schedule:
