@@ -5,7 +5,7 @@
     </br>
     <img src="https://github.com/lowking/lowking/workflows/Waka%20Readme/badge.svg" />
     </br>
-    <img src="https://github.com/lowking/lowking/workflows/Update_readme/badge.svg" />
+    <img src="https://github.com/lowking/lowking/workflows/Activity%20Readme/badge.svg" />
   </p>
   </br>
   </br>
