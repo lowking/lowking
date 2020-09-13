@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com//chavyleung/scripts/issues/9) in [chavyleung/scripts](https://github.com//chavyleung/scripts)
-2. ❗️ Closed issue [#3](https://github.com//demo2099/jscool/issues/3) in [demo2099/jscool](https://github.com//demo2099/jscool)
-3. 🗣 Commented on [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#4](https://github.com//jamesgeorge007/github-activity-readme/issues/4) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. ❗️ Opened issue [#4](https://github.com//jamesgeorge007/github-activity-readme/issues/4) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#4](https://github.com//lowking/Scripts/issues/4) in [lowking/Scripts](https://github.com//lowking/Scripts)
+2. 🗣 Commented on [#9](https://github.com//chavyleung/scripts/issues/9) in [chavyleung/scripts](https://github.com//chavyleung/scripts)
+3. ❗️ Closed issue [#3](https://github.com//demo2099/jscool/issues/3) in [demo2099/jscool](https://github.com//demo2099/jscool)
+4. 🗣 Commented on [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#4](https://github.com//jamesgeorge007/github-activity-readme/issues/4) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
