@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/lowking/Scripts/issues/6) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. 🗣 Commented on [#4](https://github.com/lowking/Scripts/issues/4) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. 🗣 Commented on [#9](https://github.com/chavyleung/scripts/issues/9) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
-4. ❗️ Closed issue [#3](https://github.com/demo2099/jscool/issues/3) in [demo2099/jscool](https://github.com/demo2099/jscool)
-5. 🗣 Commented on [#4](https://github.com/jamesgeorge007/github-activity-readme/issues/4) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗️ Closed issue [#5](https://github.com/lowking/Scripts/issues/5) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. ❗️ Closed issue [#4](https://github.com/lowking/Scripts/issues/4) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. ❗️ Closed issue [#7](https://github.com/lowking/Scripts/issues/7) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. ❗️ Closed issue [#6](https://github.com/lowking/Scripts/issues/6) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. 🗣 Commented on [#6](https://github.com/lowking/Scripts/issues/6) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
