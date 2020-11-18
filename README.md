@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#501](https://github.com/Codeusa/Borderless-Gaming/issues/501) in [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming)
-2. ❗️ Closed issue [#5](https://github.com/lowking/Scripts/issues/5) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. ❗️ Closed issue [#4](https://github.com/lowking/Scripts/issues/4) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. ❗️ Closed issue [#7](https://github.com/lowking/Scripts/issues/7) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. ❗️ Closed issue [#6](https://github.com/lowking/Scripts/issues/6) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. 🗣 Commented on [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. ❗️ Opened issue [#501](https://github.com/Codeusa/Borderless-Gaming/issues/501) in [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming)
+3. ❗️ Closed issue [#5](https://github.com/lowking/Scripts/issues/5) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. ❗️ Closed issue [#4](https://github.com/lowking/Scripts/issues/4) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. ❗️ Closed issue [#7](https://github.com/lowking/Scripts/issues/7) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
