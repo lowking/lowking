@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. 🗣 Commented on [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. 🗣 Commented on [#681](https://github.com/PPHubApp/PPHub-Feedback/issues/681) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
-4. 🗣 Commented on [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. ❗️ Opened issue [#501](https://github.com/Codeusa/Borderless-Gaming/issues/501) in [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming)
+1. ❗️ Opened issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. ❗️ Closed issue [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🗣 Commented on [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. 🗣 Commented on [#681](https://github.com/PPHubApp/PPHub-Feedback/issues/681) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
+5. 🗣 Commented on [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
