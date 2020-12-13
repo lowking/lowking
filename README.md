@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. ❗️ Closed issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. ❗️ Opened issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. ❗️ Closed issue [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. 🗣 Commented on [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. ❗️ Closed issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. ❗️ Opened issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. ❗️ Closed issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. ❗️ Opened issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. ❗️ Closed issue [#8](https://github.com/lowking/Scripts/issues/8) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
