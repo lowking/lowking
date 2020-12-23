@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/lowking/Scripts/issues/11) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. ❗️ Closed issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. ❗️ Opened issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. ❗️ Closed issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. ❗️ Opened issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. ❗️ Opened issue [#831](https://github.com/agalwood/Motrix/issues/831) in [agalwood/Motrix](https://github.com/agalwood/Motrix)
+2. ❗️ Opened issue [#11](https://github.com/lowking/Scripts/issues/11) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. ❗️ Closed issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. ❗️ Opened issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. ❗️ Closed issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
