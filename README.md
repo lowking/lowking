@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
-2. ❗️ Opened issue [#24](https://github.com/qianjiachun/douyuEx/issues/24) in [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx)
-3. ❗️ Opened issue [#831](https://github.com/agalwood/Motrix/issues/831) in [agalwood/Motrix](https://github.com/agalwood/Motrix)
-4. ❗️ Opened issue [#11](https://github.com/lowking/Scripts/issues/11) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. ❗️ Closed issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. ❗️ Closed issue [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. ❗️ Opened issue [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
+4. ❗️ Opened issue [#24](https://github.com/qianjiachun/douyuEx/issues/24) in [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx)
+5. ❗️ Opened issue [#831](https://github.com/agalwood/Motrix/issues/831) in [agalwood/Motrix](https://github.com/agalwood/Motrix)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
