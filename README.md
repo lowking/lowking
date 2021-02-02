@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
-2. ❗️ Closed issue [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. 🗣 Commented on [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. ❗️ Opened issue [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
-5. ❗️ Opened issue [#24](https://github.com/qianjiachun/douyuEx/issues/24) in [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx)
+1. 💪 Opened PR [#7](https://github.com/Kos-M/GogsThemes/pull/7) in [Kos-M/GogsThemes](https://github.com/Kos-M/GogsThemes)
+2. 🗣 Commented on [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
+3. ❗️ Closed issue [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. 🗣 Commented on [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. ❗️ Opened issue [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
