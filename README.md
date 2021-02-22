@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Kos-M/GogsThemes/pull/7) in [Kos-M/GogsThemes](https://github.com/Kos-M/GogsThemes)
-2. 🗣 Commented on [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
-3. ❗️ Closed issue [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. 🗣 Commented on [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. ❗️ Opened issue [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
+1. ❗️ Opened issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+2. 💪 Opened PR [#7](https://github.com/Kos-M/GogsThemes/pull/7) in [Kos-M/GogsThemes](https://github.com/Kos-M/GogsThemes)
+3. 🗣 Commented on [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
+4. ❗️ Closed issue [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. 🗣 Commented on [#12](https://github.com/lowking/Scripts/issues/12) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
