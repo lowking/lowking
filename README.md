@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
-2. 🗣 Commented on [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
-3. ❗️ Opened issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
-4. 💪 Opened PR [#7](https://github.com/Kos-M/GogsThemes/pull/7) in [Kos-M/GogsThemes](https://github.com/Kos-M/GogsThemes)
-5. 🗣 Commented on [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
+1. 💪 Opened PR [#319](https://github.com/chavyleung/scripts/pull/319) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
+2. ❗️ Closed issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+3. 🗣 Commented on [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+4. ❗️ Opened issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+5. 💪 Opened PR [#7](https://github.com/Kos-M/GogsThemes/pull/7) in [Kos-M/GogsThemes](https://github.com/Kos-M/GogsThemes)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
