@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#330](https://github.com/chavyleung/scripts/pull/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
-2. 💪 Opened PR [#319](https://github.com/chavyleung/scripts/pull/319) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
-3. ❗️ Closed issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
-4. 🗣 Commented on [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
-5. ❗️ Opened issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+1. 🗣 Commented on [#330](https://github.com/chavyleung/scripts/issues/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
+2. 💪 Opened PR [#330](https://github.com/chavyleung/scripts/pull/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
+3. 💪 Opened PR [#319](https://github.com/chavyleung/scripts/pull/319) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
+4. ❗️ Closed issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+5. 🗣 Commented on [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
