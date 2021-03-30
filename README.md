@@ -19,9 +19,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#330](https://github.com/chavyleung/scripts/issues/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
 2. 🗣 Commented on [#330](https://github.com/chavyleung/scripts/issues/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
-3. 💪 Opened PR [#330](https://github.com/chavyleung/scripts/pull/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
-4. 💪 Opened PR [#319](https://github.com/chavyleung/scripts/pull/319) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
-5. ❗️ Closed issue [#247](https://github.com/Sunnyyoung/WeChatTweak-macOS/issues/247) in [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+3. 🗣 Commented on [#330](https://github.com/chavyleung/scripts/issues/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
+4. 💪 Opened PR [#330](https://github.com/chavyleung/scripts/pull/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
+5. 💪 Opened PR [#319](https://github.com/chavyleung/scripts/pull/319) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
