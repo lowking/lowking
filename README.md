@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1376](https://github.com/ish-app/ish/issues/1376) in [ish-app/ish](https://github.com/ish-app/ish)
-2. 🗣 Commented on [#52](https://github.com/Peng-YM/QuanX/issues/52) in [Peng-YM/QuanX](https://github.com/Peng-YM/QuanX)
-3. 🗣 Commented on [#895](https://github.com/lwouis/alt-tab-macos/issues/895) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-4. ❗️ Opened issue [#895](https://github.com/lwouis/alt-tab-macos/issues/895) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-5. 🗣 Commented on [#330](https://github.com/chavyleung/scripts/issues/330) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
+1. 💪 Opened PR [#77](https://github.com/Xtao-Labs/PagerMaid-Modify/pull/77) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
+2. ❗️ Opened issue [#1376](https://github.com/ish-app/ish/issues/1376) in [ish-app/ish](https://github.com/ish-app/ish)
+3. 🗣 Commented on [#52](https://github.com/Peng-YM/QuanX/issues/52) in [Peng-YM/QuanX](https://github.com/Peng-YM/QuanX)
+4. 🗣 Commented on [#895](https://github.com/lwouis/alt-tab-macos/issues/895) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+5. ❗️ Opened issue [#895](https://github.com/lwouis/alt-tab-macos/issues/895) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
