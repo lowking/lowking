@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/Xtao-Labs/PagerMaid-Modify/pull/78) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
-2. 💪 Opened PR [#166](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/166) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-3. 💪 Opened PR [#77](https://github.com/Xtao-Labs/PagerMaid-Modify/pull/77) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
-4. ❗️ Opened issue [#1376](https://github.com/ish-app/ish/issues/1376) in [ish-app/ish](https://github.com/ish-app/ish)
-5. 🗣 Commented on [#52](https://github.com/Peng-YM/QuanX/issues/52) in [Peng-YM/QuanX](https://github.com/Peng-YM/QuanX)
+1. 🗣 Commented on [#78](https://github.com/Xtao-Labs/PagerMaid-Modify/issues/78) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
+2. 💪 Opened PR [#78](https://github.com/Xtao-Labs/PagerMaid-Modify/pull/78) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
+3. 💪 Opened PR [#166](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/166) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+4. 💪 Opened PR [#77](https://github.com/Xtao-Labs/PagerMaid-Modify/pull/77) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
+5. ❗️ Opened issue [#1376](https://github.com/ish-app/ish/issues/1376) in [ish-app/ish](https://github.com/ish-app/ish)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
