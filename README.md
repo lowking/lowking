@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/yqchilde/JDMemberCloseAccount/pull/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
-2. 🗣 Commented on [#78](https://github.com/Xtao-Labs/PagerMaid-Modify/issues/78) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
-3. 🗣 Commented on [#78](https://github.com/Xtao-Labs/PagerMaid-Modify/issues/78) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
-4. 🗣 Commented on [#78](https://github.com/Xtao-Labs/PagerMaid-Modify/issues/78) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
-5. 💪 Opened PR [#78](https://github.com/Xtao-Labs/PagerMaid-Modify/pull/78) in [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify)
+1. 💪 Opened PR [#57](https://github.com/yqchilde/JDMemberCloseAccount/pull/57) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
+2. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
+3. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
+4. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
+5. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
