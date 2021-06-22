@@ -17,8 +17,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/yqchilde/JDMemberCloseAccount/pull/57) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
-2. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
+1. 🗣 Commented on [#6436](https://github.com/gogs/gogs/issues/6436) in [gogs/gogs](https://github.com/gogs/gogs)
+2. 💪 Opened PR [#57](https://github.com/yqchilde/JDMemberCloseAccount/pull/57) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
 3. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
 4. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
 5. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
