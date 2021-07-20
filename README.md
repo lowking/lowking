@@ -17,10 +17,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/yqchilde/JDMemberCloseAccount/pull/83) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
-2. 🗣 Commented on [#6436](https://github.com/gogs/gogs/issues/6436) in [gogs/gogs](https://github.com/gogs/gogs)
-3. 💪 Opened PR [#57](https://github.com/yqchilde/JDMemberCloseAccount/pull/57) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
-4. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
+1. 💪 Opened PR [#175](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/175) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+2. 💪 Opened PR [#83](https://github.com/yqchilde/JDMemberCloseAccount/pull/83) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
+3. 🗣 Commented on [#6436](https://github.com/gogs/gogs/issues/6436) in [gogs/gogs](https://github.com/gogs/gogs)
+4. 💪 Opened PR [#57](https://github.com/yqchilde/JDMemberCloseAccount/pull/57) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
 5. 🗣 Commented on [#56](https://github.com/yqchilde/JDMemberCloseAccount/issues/56) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
 <!--END_SECTION:activity-->
 
