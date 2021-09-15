@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/lowking/Scripts/issues/13) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. 💪 Opened PR [#178](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/178) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-3. 🗣 Commented on [#175](https://github.com/Xtao-Labs/PagerMaid_Plugins/issues/175) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-4. 💪 Opened PR [#175](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/175) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-5. 💪 Opened PR [#83](https://github.com/yqchilde/JDMemberCloseAccount/pull/83) in [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)
+1. ❗️ Closed issue [#13](https://github.com/lowking/Scripts/issues/13) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#14](https://github.com/lowking/Scripts/issues/14) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🗣 Commented on [#13](https://github.com/lowking/Scripts/issues/13) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. 💪 Opened PR [#178](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/178) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+5. 🗣 Commented on [#175](https://github.com/Xtao-Labs/PagerMaid_Plugins/issues/175) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
