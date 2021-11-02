@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#125](https://github.com/Python3WebSpider/ProxyPool/issues/125) in [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool)
-2. 🗣 Commented on [#14](https://github.com/lowking/Scripts/issues/14) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. ❗️ Closed issue [#13](https://github.com/lowking/Scripts/issues/13) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. 💪 Opened PR [#1](https://github.com/Xtao-Labs/PagerMaid_Browser/pull/1) in [Xtao-Labs/PagerMaid_Browser](https://github.com/Xtao-Labs/PagerMaid_Browser)
+2. 💪 Opened PR [#193](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/193) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+3. ❗️ Opened issue [#125](https://github.com/Python3WebSpider/ProxyPool/issues/125) in [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool)
 4. 🗣 Commented on [#14](https://github.com/lowking/Scripts/issues/14) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. 🗣 Commented on [#13](https://github.com/lowking/Scripts/issues/13) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. ❗️ Closed issue [#13](https://github.com/lowking/Scripts/issues/13) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
