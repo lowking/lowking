@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/198) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-2. 🗣 Commented on [#197](https://github.com/Xtao-Labs/PagerMaid_Plugins/issues/197) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-3. 🗣 Commented on [#197](https://github.com/Xtao-Labs/PagerMaid_Plugins/issues/197) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-4. 💪 Opened PR [#3](https://github.com/Xtao-Labs/PagerMaid_Browser/pull/3) in [Xtao-Labs/PagerMaid_Browser](https://github.com/Xtao-Labs/PagerMaid_Browser)
-5. 💪 Opened PR [#197](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/197) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+1. ❌ Closed PR [#3](https://github.com/Xtao-Labs/PagerMaid_Browser/pull/3) in [Xtao-Labs/PagerMaid_Browser](https://github.com/Xtao-Labs/PagerMaid_Browser)
+2. 💪 Opened PR [#199](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/199) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+3. 💪 Opened PR [#198](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/198) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+4. 🗣 Commented on [#197](https://github.com/Xtao-Labs/PagerMaid_Plugins/issues/197) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+5. 🗣 Commented on [#197](https://github.com/Xtao-Labs/PagerMaid_Plugins/issues/197) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
