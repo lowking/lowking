@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/lowking/PagerMaid_Plugins/pull/2) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
-2. 🎉 Merged PR [#1](https://github.com/lowking/PagerMaid_Plugins/pull/1) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
-3. ❌ Closed PR [#3](https://github.com/Xtao-Labs/PagerMaid_Browser/pull/3) in [Xtao-Labs/PagerMaid_Browser](https://github.com/Xtao-Labs/PagerMaid_Browser)
-4. 💪 Opened PR [#199](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/199) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-5. 💪 Opened PR [#198](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/198) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
+1. 🎉 Merged PR [#3](https://github.com/lowking/PagerMaid_Plugins/pull/3) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
+2. 🎉 Merged PR [#2](https://github.com/lowking/PagerMaid_Plugins/pull/2) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
+3. 🎉 Merged PR [#1](https://github.com/lowking/PagerMaid_Plugins/pull/1) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
+4. ❌ Closed PR [#3](https://github.com/Xtao-Labs/PagerMaid_Browser/pull/3) in [Xtao-Labs/PagerMaid_Browser](https://github.com/Xtao-Labs/PagerMaid_Browser)
+5. 💪 Opened PR [#199](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/199) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
