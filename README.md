@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/xmcp/pakku.js/issues/197) in [xmcp/pakku.js](https://github.com/xmcp/pakku.js)
-2. ❗️ Opened issue [#197](https://github.com/xmcp/pakku.js/issues/197) in [xmcp/pakku.js](https://github.com/xmcp/pakku.js)
-3. 💪 Opened PR [#201](https://github.com/Xtao-Labs/PagerMaid_Plugins/pull/201) in [Xtao-Labs/PagerMaid_Plugins](https://github.com/Xtao-Labs/PagerMaid_Plugins)
-4. 🎉 Merged PR [#4](https://github.com/lowking/PagerMaid_Plugins/pull/4) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
-5. ❌ Closed PR [#1](https://github.com/FlowerSilent/Photo/pull/1) in [FlowerSilent/Photo](https://github.com/FlowerSilent/Photo)
+1. ❗️ Closed issue [#33](https://github.com/opq-osc/OPQ/issues/33) in [opq-osc/OPQ](https://github.com/opq-osc/OPQ)
+2. 🗣 Commented on [#33](https://github.com/opq-osc/OPQ/issues/33) in [opq-osc/OPQ](https://github.com/opq-osc/OPQ)
+3. ❗️ Opened issue [#33](https://github.com/opq-osc/OPQ/issues/33) in [opq-osc/OPQ](https://github.com/opq-osc/OPQ)
+4. 🗣 Commented on [#197](https://github.com/xmcp/pakku.js/issues/197) in [xmcp/pakku.js](https://github.com/xmcp/pakku.js)
+5. ❗️ Opened issue [#197](https://github.com/xmcp/pakku.js/issues/197) in [xmcp/pakku.js](https://github.com/xmcp/pakku.js)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
