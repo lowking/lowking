@@ -17,11 +17,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#130](https://github.com/xjbeta/iina-plus/issues/130) in [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)
-2. 🗣 Commented on [#125](https://github.com/xjbeta/iina-plus/issues/125) in [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)
-3. ❗️ Opened issue [#99](https://github.com/eatmoreapple/openwechat/issues/99) in [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat)
-4. ❗️ Opened issue [#7896](https://github.com/darkreader/darkreader/issues/7896) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-5. ❗️ Closed issue [#3](https://github.com/milkice233/efb-qq-plugin-iot/issues/3) in [milkice233/efb-qq-plugin-iot](https://github.com/milkice233/efb-qq-plugin-iot)
+1. 🗣 Commented on [#14](https://github.com/lowking/Scripts/issues/14) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. ❗️ Opened issue [#130](https://github.com/xjbeta/iina-plus/issues/130) in [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)
+3. 🗣 Commented on [#125](https://github.com/xjbeta/iina-plus/issues/125) in [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)
+4. ❗️ Opened issue [#99](https://github.com/eatmoreapple/openwechat/issues/99) in [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat)
+5. ❗️ Opened issue [#7896](https://github.com/darkreader/darkreader/issues/7896) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
