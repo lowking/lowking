@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1469](https://github.com/Mrs4s/go-cqhttp/issues/1469) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-2. 🗣 Commented on [#51](https://github.com/itsuhane/SwitchKey/issues/51) in [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey)
-3. 🗣 Commented on [#1240](https://github.com/neovide/neovide/issues/1240) in [neovide/neovide](https://github.com/neovide/neovide)
-4. ❌ Closed PR [#5](https://github.com/lowking/PagerMaid_Plugins/pull/5) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
-5. 🗣 Commented on [#5](https://github.com/lowking/PagerMaid_Plugins/issues/5) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
+2. 🗣 Commented on [#1469](https://github.com/Mrs4s/go-cqhttp/issues/1469) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+3. 🗣 Commented on [#51](https://github.com/itsuhane/SwitchKey/issues/51) in [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey)
+4. 🗣 Commented on [#1240](https://github.com/neovide/neovide/issues/1240) in [neovide/neovide](https://github.com/neovide/neovide)
+5. ❌ Closed PR [#5](https://github.com/lowking/PagerMaid_Plugins/pull/5) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
