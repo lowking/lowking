@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/lowking/PagerMaid_Plugins/pull/6) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
-2. ❗️ Opened issue [#96](https://github.com/mayswind/AriaNg-Native/issues/96) in [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native)
-3. 🗣 Commented on [#1469](https://github.com/Mrs4s/go-cqhttp/issues/1469) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+1. 🎉 Merged PR [#7](https://github.com/lowking/PagerMaid_Plugins/pull/7) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
+2. 🎉 Merged PR [#6](https://github.com/lowking/PagerMaid_Plugins/pull/6) in [lowking/PagerMaid_Plugins](https://github.com/lowking/PagerMaid_Plugins)
+3. ❗️ Opened issue [#96](https://github.com/mayswind/AriaNg-Native/issues/96) in [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native)
 4. 🗣 Commented on [#1469](https://github.com/Mrs4s/go-cqhttp/issues/1469) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-5. 🗣 Commented on [#51](https://github.com/itsuhane/SwitchKey/issues/51) in [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey)
+5. 🗣 Commented on [#1469](https://github.com/Mrs4s/go-cqhttp/issues/1469) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
