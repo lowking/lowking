@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/lowking/Scripts/issues/15) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. ❗️ Opened issue [#91](https://github.com/leaves615/KeyboardHolder/issues/91) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
-3. ❗️ Opened issue [#1467](https://github.com/neovide/neovide/issues/1467) in [neovide/neovide](https://github.com/neovide/neovide)
-4. 🗣 Commented on [#243](https://github.com/neovide/neovide/issues/243) in [neovide/neovide](https://github.com/neovide/neovide)
-5. 🗣 Commented on [#82](https://github.com/leaves615/KeyboardHolder/issues/82) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+1. ❗️ Opened issue [#877](https://github.com/jxxghp/nas-tools/issues/877) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+2. 🗣 Commented on [#15](https://github.com/lowking/Scripts/issues/15) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. ❗️ Opened issue [#91](https://github.com/leaves615/KeyboardHolder/issues/91) in [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+4. ❗️ Opened issue [#1467](https://github.com/neovide/neovide/issues/1467) in [neovide/neovide](https://github.com/neovide/neovide)
+5. 🗣 Commented on [#243](https://github.com/neovide/neovide/issues/243) in [neovide/neovide](https://github.com/neovide/neovide)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
