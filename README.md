@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/chinanf-boy/tokei-zh/issues/2) in [chinanf-boy/tokei-zh](https://github.com/chinanf-boy/tokei-zh)
-2. 🗣 Commented on [#981](https://github.com/jxxghp/nas-tools/issues/981) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-3. 🗣 Commented on [#979](https://github.com/jxxghp/nas-tools/issues/979) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-4. ❗️ Opened issue [#981](https://github.com/jxxghp/nas-tools/issues/981) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-5. 🗣 Commented on [#882](https://github.com/jxxghp/nas-tools/issues/882) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+1. 🗣 Commented on [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. ❗️ Opened issue [#2](https://github.com/chinanf-boy/tokei-zh/issues/2) in [chinanf-boy/tokei-zh](https://github.com/chinanf-boy/tokei-zh)
+3. 🗣 Commented on [#981](https://github.com/jxxghp/nas-tools/issues/981) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+4. 🗣 Commented on [#979](https://github.com/jxxghp/nas-tools/issues/979) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+5. ❗️ Opened issue [#981](https://github.com/jxxghp/nas-tools/issues/981) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
