@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/surgioproject/surgio/issues/213) in [surgioproject/surgio](https://github.com/surgioproject/surgio)
-2. ❗️ Opened issue [#13](https://github.com/igorcmoura/anitopy/issues/13) in [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy)
-3. 🗣 Commented on [#1534](https://github.com/jxxghp/nas-tools/issues/1534) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-4. ❗️ Opened issue [#1534](https://github.com/jxxghp/nas-tools/issues/1534) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-5. 💪 Opened PR [#1365](https://github.com/jxxghp/nas-tools/pull/1365) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+1. ❗️ Closed issue [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🗣 Commented on [#213](https://github.com/surgioproject/surgio/issues/213) in [surgioproject/surgio](https://github.com/surgioproject/surgio)
+4. ❗️ Opened issue [#13](https://github.com/igorcmoura/anitopy/issues/13) in [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy)
+5. 🗣 Commented on [#1534](https://github.com/jxxghp/nas-tools/issues/1534) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
