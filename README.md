@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2215](https://github.com/jxxghp/nas-tools/issues/2215) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-2. ❗️ Closed issue [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. 🗣 Commented on [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. 🗣 Commented on [#213](https://github.com/surgioproject/surgio/issues/213) in [surgioproject/surgio](https://github.com/surgioproject/surgio)
-5. ❗️ Opened issue [#13](https://github.com/igorcmoura/anitopy/issues/13) in [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy)
+1. 💪 Opened PR [#2228](https://github.com/jxxghp/nas-tools/pull/2228) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+2. ❗️ Opened issue [#2215](https://github.com/jxxghp/nas-tools/issues/2215) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+3. ❗️ Closed issue [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. 🗣 Commented on [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. 🗣 Commented on [#213](https://github.com/surgioproject/surgio/issues/213) in [surgioproject/surgio](https://github.com/surgioproject/surgio)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
