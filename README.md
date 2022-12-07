@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2215](https://github.com/jxxghp/nas-tools/issues/2215) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-2. 💪 Opened PR [#2228](https://github.com/jxxghp/nas-tools/pull/2228) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-3. ❗️ Opened issue [#2215](https://github.com/jxxghp/nas-tools/issues/2215) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-4. ❗️ Closed issue [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. 🗣 Commented on [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. 🗣 Commented on [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. ❗️ Closed issue [#2215](https://github.com/jxxghp/nas-tools/issues/2215) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+3. 💪 Opened PR [#2228](https://github.com/jxxghp/nas-tools/pull/2228) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+4. ❗️ Opened issue [#2215](https://github.com/jxxghp/nas-tools/issues/2215) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+5. ❗️ Closed issue [#16](https://github.com/lowking/Scripts/issues/16) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
