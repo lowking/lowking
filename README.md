@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. 🗣 Commented on [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. 🗣 Commented on [#1650](https://github.com/alist-org/alist/issues/1650) in [alist-org/alist](https://github.com/alist-org/alist)
+2. ❗️ Closed issue [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
 3. 🗣 Commented on [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. ❗️ Closed issue [#15](https://github.com/lowking/Scripts/issues/15) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. ❗️ Opened issue [#2655](https://github.com/jxxghp/nas-tools/issues/2655) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+4. 🗣 Commented on [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. ❗️ Closed issue [#15](https://github.com/lowking/Scripts/issues/15) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
