@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/willfarrell/alfred-encode-decode-workflow/issues/35) in [willfarrell/alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow)
-2. 🗣 Commented on [#1650](https://github.com/alist-org/alist/issues/1650) in [alist-org/alist](https://github.com/alist-org/alist)
-3. ❗️ Closed issue [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. 🗣 Commented on [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. 🗣 Commented on [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. ❗️ Closed issue [#18](https://github.com/lowking/Scripts/issues/18) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#18](https://github.com/lowking/Scripts/issues/18) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🗣 Commented on [#35](https://github.com/willfarrell/alfred-encode-decode-workflow/issues/35) in [willfarrell/alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow)
+4. 🗣 Commented on [#1650](https://github.com/alist-org/alist/issues/1650) in [alist-org/alist](https://github.com/alist-org/alist)
+5. ❗️ Closed issue [#17](https://github.com/lowking/Scripts/issues/17) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
