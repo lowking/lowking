@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3609](https://github.com/alist-org/alist/pull/3609) in [alist-org/alist](https://github.com/alist-org/alist)
-2. 💪 Opened PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
-3. ❗️ Opened issue [#76](https://github.com/obiscr/ChatGPT/issues/76) in [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT)
-4. 🗣 Commented on [#177](https://github.com/xjbeta/iina-plus/issues/177) in [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)
-5. ❗️ Closed issue [#164](https://github.com/xjbeta/iina-plus/issues/164) in [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)
+1. 🗣 Commented on [#81](https://github.com/dromara/ChatGPT/issues/81) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
+2. 🗣 Commented on [#76](https://github.com/dromara/ChatGPT/issues/76) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
+3. 💪 Opened PR [#3609](https://github.com/alist-org/alist/pull/3609) in [alist-org/alist](https://github.com/alist-org/alist)
+4. 💪 Opened PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
+5. ❗️ Opened issue [#76](https://github.com/obiscr/ChatGPT/issues/76) in [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
