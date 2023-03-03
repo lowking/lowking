@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#81](https://github.com/dromara/ChatGPT/issues/81) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
-2. 🗣 Commented on [#76](https://github.com/dromara/ChatGPT/issues/76) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
-3. 💪 Opened PR [#3609](https://github.com/alist-org/alist/pull/3609) in [alist-org/alist](https://github.com/alist-org/alist)
-4. 💪 Opened PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
-5. ❗️ Opened issue [#76](https://github.com/obiscr/ChatGPT/issues/76) in [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT)
+2. 🗣 Commented on [#81](https://github.com/dromara/ChatGPT/issues/81) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
+3. 🗣 Commented on [#76](https://github.com/dromara/ChatGPT/issues/76) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
+4. 💪 Opened PR [#3609](https://github.com/alist-org/alist/pull/3609) in [alist-org/alist](https://github.com/alist-org/alist)
+5. 💪 Opened PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
