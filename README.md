@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/dromara/ChatGPT/issues/81) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
-2. 🗣 Commented on [#81](https://github.com/dromara/ChatGPT/issues/81) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
-3. 🗣 Commented on [#76](https://github.com/dromara/ChatGPT/issues/76) in [dromara/ChatGPT](https://github.com/dromara/ChatGPT)
-4. 💪 Opened PR [#3609](https://github.com/alist-org/alist/pull/3609) in [alist-org/alist](https://github.com/alist-org/alist)
-5. 💪 Opened PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
+1. ❗️ Closed issue [#20](https://github.com/lowking/Scripts/issues/20) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#20](https://github.com/lowking/Scripts/issues/20) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. ❗️ Closed issue [#19](https://github.com/lowking/Scripts/issues/19) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. 🗣 Commented on [#19](https://github.com/lowking/Scripts/issues/19) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. ❗️ Closed issue [#21](https://github.com/lowking/Scripts/issues/21) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
