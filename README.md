@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#432](https://github.com/chavyleung/scripts/pull/432) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
-2. 🗣 Commented on [#25](https://github.com/shuzijun/markdown-editor/issues/25) in [shuzijun/markdown-editor](https://github.com/shuzijun/markdown-editor)
-3. ❗️ Closed issue [#20](https://github.com/lowking/Scripts/issues/20) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. 🗣 Commented on [#20](https://github.com/lowking/Scripts/issues/20) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. ❗️ Closed issue [#19](https://github.com/lowking/Scripts/issues/19) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. 🗣 Commented on [#1942](https://github.com/Mrs4s/go-cqhttp/issues/1942) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+2. 💪 Opened PR [#432](https://github.com/chavyleung/scripts/pull/432) in [chavyleung/scripts](https://github.com/chavyleung/scripts)
+3. 🗣 Commented on [#25](https://github.com/shuzijun/markdown-editor/issues/25) in [shuzijun/markdown-editor](https://github.com/shuzijun/markdown-editor)
+4. ❗️ Closed issue [#20](https://github.com/lowking/Scripts/issues/20) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. 🗣 Commented on [#20](https://github.com/lowking/Scripts/issues/20) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
