@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/lowking/Scripts/issues/24) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. ❗️ Closed issue [#24](https://github.com/lowking/Scripts/issues/24) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. 🗣 Commented on [#831](https://github.com/agalwood/Motrix/issues/831) in [agalwood/Motrix](https://github.com/agalwood/Motrix)
+1. 💪 Opened PR [#69](https://github.com/yichengchen/ATV-Bilibili-demo/pull/69) in [yichengchen/ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo)
+2. 🗣 Commented on [#24](https://github.com/lowking/Scripts/issues/24) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. ❗️ Closed issue [#24](https://github.com/lowking/Scripts/issues/24) in [lowking/Scripts](https://github.com/lowking/Scripts)
 4. 🗣 Commented on [#831](https://github.com/agalwood/Motrix/issues/831) in [agalwood/Motrix](https://github.com/agalwood/Motrix)
-5. 🗣 Commented on [#177](https://github.com/xjbeta/iina-plus/issues/177) in [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)
+5. 🗣 Commented on [#831](https://github.com/agalwood/Motrix/issues/831) in [agalwood/Motrix](https://github.com/agalwood/Motrix)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
