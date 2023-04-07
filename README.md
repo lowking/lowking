@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-2. ❗️ Opened issue [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-3. ❗️ Opened issue [#401](https://github.com/kingslay/KSPlayer/issues/401) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-4. 💪 Opened PR [#69](https://github.com/yichengchen/ATV-Bilibili-demo/pull/69) in [yichengchen/ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo)
-5. 🗣 Commented on [#24](https://github.com/lowking/Scripts/issues/24) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+3. ❗️ Opened issue [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+4. ❗️ Opened issue [#401](https://github.com/kingslay/KSPlayer/issues/401) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+5. 💪 Opened PR [#69](https://github.com/yichengchen/ATV-Bilibili-demo/pull/69) in [yichengchen/ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
