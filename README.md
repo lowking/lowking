@@ -18,8 +18,8 @@
 1. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 2. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 3. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-4. ❗️ Opened issue [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-5. ❗️ Opened issue [#401](https://github.com/kingslay/KSPlayer/issues/401) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+4. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+5. ❗️ Opened issue [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
