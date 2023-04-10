@@ -15,7 +15,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+1. 🗣 Commented on [#25](https://github.com/lowking/Scripts/issues/25) in [lowking/Scripts](https://github.com/lowking/Scripts)
 2. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 3. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 4. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
