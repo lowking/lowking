@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/lowking/Scripts/issues/26) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. 🗣 Commented on [#25](https://github.com/lowking/Scripts/issues/25) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+1. ❗️ Opened issue [#4165](https://github.com/alist-org/alist/issues/4165) in [alist-org/alist](https://github.com/alist-org/alist)
+2. 🗣 Commented on [#26](https://github.com/lowking/Scripts/issues/26) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🗣 Commented on [#25](https://github.com/lowking/Scripts/issues/25) in [lowking/Scripts](https://github.com/lowking/Scripts)
 4. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 5. 🗣 Commented on [#402](https://github.com/kingslay/KSPlayer/issues/402) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 <!--END_SECTION:activity-->
