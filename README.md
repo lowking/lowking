@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#929](https://github.com/PPHubApp/PPHub-Feedback/issues/929) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
+1. ❗ Opened issue [#929](https://github.com/PPHubApp/PPHub-Feedback/issues/929) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
 2. 🗣 Commented on [#562](https://github.com/kyleneideck/BackgroundMusic/issues/562) in [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
-3. ❗️ Opened issue [#4165](https://github.com/alist-org/alist/issues/4165) in [alist-org/alist](https://github.com/alist-org/alist)
+3. ❗ Opened issue [#4165](https://github.com/alist-org/alist/issues/4165) in [alist-org/alist](https://github.com/alist-org/alist)
 4. 🗣 Commented on [#26](https://github.com/lowking/Scripts/issues/26) in [lowking/Scripts](https://github.com/lowking/Scripts)
 5. 🗣 Commented on [#25](https://github.com/lowking/Scripts/issues/25) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
