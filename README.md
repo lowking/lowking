@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2304](https://github.com/Mrs4s/go-cqhttp/issues/2304#issuecomment-1666444028) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-2. 🗣 Commented on [#591](https://github.com/go-vgo/robotgo/issues/591#issuecomment-1665784061) in [go-vgo/robotgo](https://github.com/go-vgo/robotgo)
-3. 🔒 Closed issue [#27](https://github.com/lowking/Scripts/issues/27) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. 🗣 Commented on [#27](https://github.com/lowking/Scripts/issues/27#issuecomment-1665354410) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. 🗣 Commented on [#2304](https://github.com/Mrs4s/go-cqhttp/issues/2304#issuecomment-1660454344) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+1. 🔒 Closed issue [#28](https://github.com/lowking/Scripts/issues/28) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#28](https://github.com/lowking/Scripts/issues/28#issuecomment-1674216351) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🗣 Commented on [#2304](https://github.com/Mrs4s/go-cqhttp/issues/2304#issuecomment-1666444028) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+4. 🗣 Commented on [#591](https://github.com/go-vgo/robotgo/issues/591#issuecomment-1665784061) in [go-vgo/robotgo](https://github.com/go-vgo/robotgo)
+5. 🔒 Closed issue [#27](https://github.com/lowking/Scripts/issues/27) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
