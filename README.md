@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/lowking/Scripts/issues/29#issuecomment-1674337484) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. 🔒 Closed issue [#29](https://github.com/lowking/Scripts/issues/29) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. 🔒 Closed issue [#28](https://github.com/lowking/Scripts/issues/28) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. 🗣 Commented on [#28](https://github.com/lowking/Scripts/issues/28#issuecomment-1674216351) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. 🗣 Commented on [#2304](https://github.com/Mrs4s/go-cqhttp/issues/2304#issuecomment-1666444028) in [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+1. 🗣 Commented on [#29](https://github.com/lowking/Scripts/issues/29#issuecomment-1674805076) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#29](https://github.com/lowking/Scripts/issues/29#issuecomment-1674337484) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🔒 Closed issue [#29](https://github.com/lowking/Scripts/issues/29) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. 🔒 Closed issue [#28](https://github.com/lowking/Scripts/issues/28) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. 🗣 Commented on [#28](https://github.com/lowking/Scripts/issues/28#issuecomment-1674216351) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
