@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3148](https://github.com/lwouis/alt-tab-macos/issues/3148#issuecomment-1918894357) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-2. ❗ Opened issue [#3148](https://github.com/lwouis/alt-tab-macos/issues/3148) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-3. 🗣 Commented on [#33](https://github.com/lowking/Scripts/issues/33#issuecomment-1913794171) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. 💪 Opened PR [#220](https://github.com/the-via/app/pull/220) in [the-via/app](https://github.com/the-via/app)
-5. 💪 Opened PR [#219](https://github.com/the-via/app/pull/219) in [the-via/app](https://github.com/the-via/app)
+1. 🔒 Closed issue [#32](https://github.com/lowking/Scripts/issues/32) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. 🗣 Commented on [#32](https://github.com/lowking/Scripts/issues/32#issuecomment-1926035900) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🗣 Commented on [#3148](https://github.com/lwouis/alt-tab-macos/issues/3148#issuecomment-1918894357) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+4. ❗ Opened issue [#3148](https://github.com/lwouis/alt-tab-macos/issues/3148) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+5. 🗣 Commented on [#33](https://github.com/lowking/Scripts/issues/33#issuecomment-1913794171) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
