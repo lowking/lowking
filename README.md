@@ -15,8 +15,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
-2. 🗣 Commented on [#35](https://github.com/lowking/Scripts/issues/35#issuecomment-1963628304) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. 🗣 Commented on [#36](https://github.com/lowking/Scripts/issues/36#issuecomment-2155736593) in [lowking/Scripts](https://github.com/lowking/Scripts)
+2. ❌ Closed PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
 3. 🔒 Closed issue [#34](https://github.com/lowking/Scripts/issues/34) in [lowking/Scripts](https://github.com/lowking/Scripts)
 4. 🗣 Commented on [#35](https://github.com/lowking/Scripts/issues/35#issuecomment-1958702538) in [lowking/Scripts](https://github.com/lowking/Scripts)
 5. 🔒 Closed issue [#35](https://github.com/lowking/Scripts/issues/35) in [lowking/Scripts](https://github.com/lowking/Scripts)
