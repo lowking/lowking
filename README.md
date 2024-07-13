@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/lowking/Scripts/issues/36#issuecomment-2184283817) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. 🔒 Closed issue [#36](https://github.com/lowking/Scripts/issues/36) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. 🗣 Commented on [#36](https://github.com/lowking/Scripts/issues/36#issuecomment-2155736593) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. ❌ Closed PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
-5. 🔒 Closed issue [#35](https://github.com/lowking/Scripts/issues/35) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. 🗣 Commented on [#6606](https://github.com/alist-org/alist/issues/6606#issuecomment-2226938012) in [alist-org/alist](https://github.com/alist-org/alist)
+2. 🗣 Commented on [#36](https://github.com/lowking/Scripts/issues/36#issuecomment-2184283817) in [lowking/Scripts](https://github.com/lowking/Scripts)
+3. 🔒 Closed issue [#36](https://github.com/lowking/Scripts/issues/36) in [lowking/Scripts](https://github.com/lowking/Scripts)
+4. 🗣 Commented on [#36](https://github.com/lowking/Scripts/issues/36#issuecomment-2155736593) in [lowking/Scripts](https://github.com/lowking/Scripts)
+5. ❌ Closed PR [#60](https://github.com/alist-org/alist-web/pull/60) in [alist-org/alist-web](https://github.com/alist-org/alist-web)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
