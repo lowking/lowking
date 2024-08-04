@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/gaogaotiantian/biliscope/issues/160#issuecomment-2266714374) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
-2. 🗣 Commented on [#6606](https://github.com/alist-org/alist/issues/6606#issuecomment-2226938012) in [alist-org/alist](https://github.com/alist-org/alist)
-3. 🗣 Commented on [#36](https://github.com/lowking/Scripts/issues/36#issuecomment-2184283817) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. 🔒 Closed issue [#36](https://github.com/lowking/Scripts/issues/36) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. 🗣 Commented on [#36](https://github.com/lowking/Scripts/issues/36#issuecomment-2155736593) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. 🗣 Commented on [#160](https://github.com/gaogaotiantian/biliscope/issues/160#issuecomment-2267340283) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
+2. ❗ Opened issue [#203](https://github.com/gaogaotiantian/biliscope/issues/203) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
+3. 🗣 Commented on [#160](https://github.com/gaogaotiantian/biliscope/issues/160#issuecomment-2266714374) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
+4. 🗣 Commented on [#6606](https://github.com/alist-org/alist/issues/6606#issuecomment-2226938012) in [alist-org/alist](https://github.com/alist-org/alist)
+5. 🗣 Commented on [#36](https://github.com/lowking/Scripts/issues/36#issuecomment-2184283817) in [lowking/Scripts](https://github.com/lowking/Scripts)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
