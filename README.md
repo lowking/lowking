@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/gaogaotiantian/biliscope/issues/203#issuecomment-2281342631) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
-2. 🗣 Commented on [#203](https://github.com/gaogaotiantian/biliscope/issues/203#issuecomment-2278110586) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
-3. 🗣 Commented on [#203](https://github.com/gaogaotiantian/biliscope/issues/203#issuecomment-2278069260) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
-4. 🗣 Commented on [#203](https://github.com/gaogaotiantian/biliscope/issues/203#issuecomment-2277775074) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
-5. 🗣 Commented on [#203](https://github.com/gaogaotiantian/biliscope/issues/203#issuecomment-2276191041) in [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)
+1. 🔒 Closed issue [#19](https://github.com/typcn/163music-mac-client-unlock/issues/19) in [typcn/163music-mac-client-unlock](https://github.com/typcn/163music-mac-client-unlock)
+2. 🔒 Closed issue [#422](https://github.com/agalwood/Motrix/issues/422) in [agalwood/Motrix](https://github.com/agalwood/Motrix)
+3. 🔒 Closed issue [#1](https://github.com/cuiyu8580/MacQQPlugin/issues/1) in [cuiyu8580/MacQQPlugin](https://github.com/cuiyu8580/MacQQPlugin)
+4. 🔒 Closed issue [#736](https://github.com/agalwood/Motrix/issues/736) in [agalwood/Motrix](https://github.com/agalwood/Motrix)
+5. 🔒 Closed issue [#694](https://github.com/PPHubApp/PPHub-Feedback/issues/694) in [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
