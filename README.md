@@ -15,7 +15,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#59](https://github.com/deadblue/elevengo/issues/59) in [deadblue/elevengo](https://github.com/deadblue/elevengo)
+1. ❗ Opened issue [#511](https://github.com/PuerkitoBio/goquery/issues/511) in [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery)
 2. 🗣 Commented on [#59](https://github.com/deadblue/elevengo/issues/59#issuecomment-2541727927) in [deadblue/elevengo](https://github.com/deadblue/elevengo)
 3. ❗ Opened issue [#59](https://github.com/deadblue/elevengo/issues/59) in [deadblue/elevengo](https://github.com/deadblue/elevengo)
 4. 🗣 Commented on [#55](https://github.com/deadblue/elevengo/issues/55#issuecomment-2524862932) in [deadblue/elevengo](https://github.com/deadblue/elevengo)
